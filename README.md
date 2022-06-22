@@ -1,2 +1,2 @@
-# my_solution_to_kattis
+# My Solutions to Kattis
 My Solutions to the Kattis (Programming Challenge)
