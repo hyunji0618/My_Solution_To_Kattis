@@ -5,13 +5,13 @@ My Solutions to the Kattis (Programming Challenge)
 ## Problems List
 | | Problem ID | Language | Problem Description from Kattis |
 | :---: | :---: | :---: | :---: |
-| 1 | [Air Conditioned Minions](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AirConditionedMinions.cpp) | C++ | [*AirConditionedMinions*](https://open.kattis.com/problems/airconditioned) |
-| 2 | [Almost Perfect](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AlmostPerfect.cpp) | C++ | [*AlmostPerfect*](https://open.kattis.com/problems/almostperfect) |
-| 3 | [Almost Union-Find](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AlmostUnionFind.cpp) | C++ | [*AlmostUnionFind*](https://open.kattis.com/problems/almostunionfind) |
-| 4 | [Arbitrage?](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Arbitrage.cpp) | C++ | [*Arbitrage*](https://open.kattis.com/problems/arbitrage) |
-| 5 | [Block Crusher](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BlockCrusher.cpp) | C++ | [*BlockCrusher*](https://open.kattis.com/problems/blockcrusher) |
-| 6 | [Boss Battle](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BossBattle.c) | C | [*BossBattle*]() |
-| 7 | [Coast Length](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/CoastLength.cpp) | C++ | [*CoastLength*]() |
+| 1 | [Air Conditioned Minions](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AirConditionedMinions.cpp) | C++ | [*airconditonedminions*](https://open.kattis.com/problems/airconditioned) |
+| 2 | [Almost Perfect](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AlmostPerfect.cpp) | C++ | [*almostperfect*](https://open.kattis.com/problems/almostperfect) |
+| 3 | [Almost Union-Find](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AlmostUnionFind.cpp) | C++ | [*almostunionfind*](https://open.kattis.com/problems/almostunionfind) |
+| 4 | [Arbitrage?](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Arbitrage.cpp) | C++ | [*arbitrage*](https://open.kattis.com/problems/arbitrage) |
+| 5 | [Block Crusher](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BlockCrusher.cpp) | C++ | [*blockcrusher*](https://open.kattis.com/problems/blockcrusher) |
+| 6 | [Boss Battle](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BossBattle.c) | C | [*bossbattle*]() |
+| 7 | [Coast Length](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/CoastLength.cpp) | C++ | [*coastlength*]() |
 | 8 | [Conservation](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Conservation.cpp) | C++ | [*Conservation*]() |
 | 9 | [Cudoviste](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Cudoviste.cpp) | C++ | [*Cudoviste*]() |
 | 10 | [Divide](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Divide.cpp) | C++ | [*Divide*]() |
