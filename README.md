@@ -19,10 +19,10 @@ My Solutions to the Kattis Problems
 | 12 | [FizzBuzz](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FizzBuzz.c) | C | [*fizzbuzz*](https://open.kattis.com/problems/fizzbuzz) |
 | 13 | [Flow Shop](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FlowShop.cpp) | C++ | [*flowshop*](https://open.kattis.com/problems/flowshop) |
 | 14 | [Flowery Trails](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FloweryTrails.cpp) | C++ | [*flowerytrails*](https://open.kattis.com/problems/flowerytrails) |
-| 15 | [Forest](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Forest.cpp) | C | [*Forest*]() |
-| 16 | [Getting Gold](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/GettingGold.cpp) | C++ | [*GettingGold*]() |
-| 17 | [Grid](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Grid.cpp) | C++ | [*Grid*]() |
-| 18 | [Jumbled Compass](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/JumbledCompass.c) | C | [*JumbledCompass*]() |
+| 15 | [Forests](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Forest.cpp) | C | [*forests*](https://open.kattis.com/problems/forests) |
+| 16 | [Getting Gold](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/GettingGold.cpp) | C++ | [*gettinggold*](https://open.kattis.com/problems/gold) |
+| 17 | [Grid](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Grid.cpp) | C++ | [*grid*](https://open.kattis.com/problems/grid) |
+| 18 | [Jumbled Compass](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/JumbledCompass.c) | C | [*JumbledCompass*](https://open.kattis.com/problems/compass) |
 | 19 | [Keyboard in Concert](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/KeyboardinConcert.cpp) | C++ | [*KeyboardinConcert*]() |
 | 20 | [Knight Search](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/KnightSearch.cpp) | C++ | [*KnightSearch*]() |
 | 21 | [Locked Treasure](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/LockedTreasure.cpp) | C++ | [*LockedTreasure*]() |
