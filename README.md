@@ -10,15 +10,15 @@ My Solutions to the Kattis Problems
 | 3 | [Almost Union-Find](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/AlmostUnionFind.cpp) | C++ | [*almostunionfind*](https://open.kattis.com/problems/almostunionfind) |
 | 4 | [Arbitrage?](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Arbitrage.cpp) | C++ | [*arbitrage*](https://open.kattis.com/problems/arbitrage) |
 | 5 | [Block Crusher](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BlockCrusher.cpp) | C++ | [*blockcrusher*](https://open.kattis.com/problems/blockcrusher) |
-| 6 | [Boss Battle](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BossBattle.c) | C | [*bossbattle*]() |
-| 7 | [Coast Length](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/CoastLength.cpp) | C++ | [*coastlength*]() |
-| 8 | [Conservation](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Conservation.cpp) | C++ | [*Conservation*]() |
-| 9 | [Cudoviste](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Cudoviste.cpp) | C++ | [*Cudoviste*]() |
-| 10 | [Divide](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Divide.cpp) | C++ | [*Divide*]() |
-| 11 | [Exam](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Exam.cpp) | C++ | [*Exam*]() |
-| 12 | [FizzBuzz](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FizzBuzz.c) | C | [*FizzBuzz*]() |
-| 13 | [Flow Shop](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FlowShop.cpp) | C++ | [*FlowShop*]() |
-| 14 | [Flowery Trails](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FloweryTrails.cpp) | C++ | [*FloweryTrails*]() |
+| 6 | [Boss Battle](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/BossBattle.c) | C | [*bossbattle*](https://open.kattis.com/problems/bossbattle) |
+| 7 | [Coast Length](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/CoastLength.cpp) | C++ | [*coastlength*](https://open.kattis.com/problems/coast) |
+| 8 | [Conservation](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Conservation.cpp) | C++ | [*conservation*](https://open.kattis.com/problems/conservation) |
+| 9 | [Cudoviste](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Cudoviste.cpp) | C++ | [*cudoviste*](https://open.kattis.com/problems/cudoviste) |
+| 10 | [Divide by 100](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Divide.cpp) | C++ | [*divideby100*](https://open.kattis.com/problems/divideby100) |
+| 11 | [Exam](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Exam.cpp) | C++ | [*exam*](https://open.kattis.com/problems/exam) |
+| 12 | [FizzBuzz](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FizzBuzz.c) | C | [*fizzbuzz*](https://open.kattis.com/problems/fizzbuzz) |
+| 13 | [Flow Shop](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FlowShop.cpp) | C++ | [*flowshop*](https://open.kattis.com/problems/flowshop) |
+| 14 | [Flowery Trails](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/FloweryTrails.cpp) | C++ | [*flowerytrails*](https://open.kattis.com/problems/flowerytrails) |
 | 15 | [Forest](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Forest.cpp) | C | [*Forest*]() |
 | 16 | [Getting Gold](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/GettingGold.cpp) | C++ | [*GettingGold*]() |
 | 17 | [Grid](https://github.com/hyunji0618/My_Solution_To_Kattis/blob/main/Solutions/Grid.cpp) | C++ | [*Grid*]() |
