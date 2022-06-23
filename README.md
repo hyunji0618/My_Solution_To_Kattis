@@ -1,6 +1,6 @@
-# My Solutions to Kattis
-My Solutions to the Kattis (Programming Challenge)
-[Click here to go to the Kattis archive.](https://open.kattis.com/)
+# My Solutions to Kattis Programming Challenge Problems
+My Solutions to the Kattis Problems
+<br/> [Click here to go to the Kattis archive.](https://open.kattis.com/)
 
 ## Problems List
 | | Problem ID | Language | Problem Description from Kattis |
